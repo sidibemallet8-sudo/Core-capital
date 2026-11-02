@@ -1,0 +1,6 @@
+{
+  "name": "CORE CAPITAL",
+  "description": "Plateforme fintech moderne. Your Money. Your Decisions. Your Future. CORE MONEY, CORE DECISION, CORE VOICE, CORE GOALS, CORE BOURSE, CORE PROJECTS & CONNECT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
